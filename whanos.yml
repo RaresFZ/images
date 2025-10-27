@@ -1,8 +1,0 @@
-deployment:
-  replicas: 2
-  ports:
-    - 8080
-  resources:
-    requests:
-      memory: "64Mi"
-      cpu: "250m"
